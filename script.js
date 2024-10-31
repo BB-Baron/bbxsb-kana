@@ -40,9 +40,9 @@ document.addEventListener('DOMContentLoaded', function () {
       const value = parseInt(this.getAttribute('data-value'));
       const label = this.getAttribute('data-label');
       if (this.parentElement.id === 'left-decision-buttons') {
-        updateScore('left', value, label);
+        updateScore('ひだり', value, label);
       } else {
-        updateScore('right', value, label);
+        updateScore('みぎ', value, label);
       }
     });
   });
