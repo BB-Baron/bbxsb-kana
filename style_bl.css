@@ -87,7 +87,7 @@ z-index: 111;
 
 /* 決まり手ボタン */
 .decision-button {
-	font-size: 1.8vw;
+	font-size: 1.5vw;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
@@ -112,7 +112,7 @@ z-index: 111;
 }
 
 .of-button {
-  font-size: 1.8vw;
+  font-size: 1.5vw;
 }
 
 #leftScore::first-letter,
